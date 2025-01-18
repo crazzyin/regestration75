@@ -96,12 +96,6 @@ form .input-box span.details {
   
 }
 
-
-input:hover{
-  color: rgb(255, 255, 255);
-  background: hsla(0, 0%, 0%, 0);
-}
-
 .user-details .input-box input:focus,
 .user-details .input-box input:valid {
   border-color: #9b59b6;
